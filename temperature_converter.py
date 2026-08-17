@@ -1,0 +1,6 @@
+celsius=float(input("Enter Celsius:"))
+print("Fahrenheit:",(celsius*9/5)+32)
+fahrenheit=float(input("Enter Fahrenheit:"))
+print("Celsius:",(fahrenheit-32)*5/9)
+kelvin=float(input("Enter Kelvin:"))
+print("Celsius:",kelvin-273.15)
